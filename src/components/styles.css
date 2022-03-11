@@ -1,0 +1,19 @@
+.Combobox {
+    font-family: sans-serif;
+    text-align: left;
+    position: -webkit-sticky; 
+    position: fixed;
+  }
+  
+  .comboBoxOption {
+    padding: 5px;
+  }
+  .button{
+    display: flex;
+  align-items: center;
+  /* background: rgb(177, 222, 248); */
+  background: rgb(9, 31, 43);
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.897);
+  font-family: "Arial", Times, serif;
+}
